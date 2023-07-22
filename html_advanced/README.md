@@ -1,0 +1,1 @@
+This is a description of how the homepage.fig was designed by me. The image shwon herein is how the finished webpage will look like. ![Webpage Preview] (html_advanced\figma.PNG)
